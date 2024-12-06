@@ -29,7 +29,7 @@ This repository contains various machine learning and data analysis projects tha
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ml-data-analysis-projects.git
+   git clone https://github.com/bedirhancan/AI-ML-Projects.git
    ```
 2. Install required dependencies:
    ```bash
